@@ -7,8 +7,10 @@ body{
     margin-left: auto;
     margin-right: auto;
     margin-top: 0;
-    border: #F10393 4px solid;
-    color: mediumorchid;
+    border: #FFC500 4px solid;
+    
+    font-family:Brush Script MT;
+    text-color:#E8B300;
 
 }
 
